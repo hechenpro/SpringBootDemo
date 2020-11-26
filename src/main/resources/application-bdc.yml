@@ -1,0 +1,16 @@
+#地球省 太平洋市  鲨鱼县
+district:
+  code: 001
+  name: 地球省
+  simpleName: 太平洋市
+  organization: 鲨鱼县半鱼处
+  areas:
+    - code: 010
+      name: 南太平洋
+      simpleName: 南大洋
+      organization: 鲫鱼县半鱼处
+      areas:
+        - code: 100
+          name: 北太平洋
+          simpleName: 北大洋
+          organization: 草鱼县半鱼处
